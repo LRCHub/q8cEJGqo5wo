@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "バイバイカラー",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2026-01-13T10:32:35.584050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バイバイカラー",
+      "artist": "go!go!vanillas",
+      "has_synced": true,
+      "path": "select/01_バイバイカラー_go!go!vanillas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バイバイカラー",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_バイバイカラー_go!go!vanillas.txt"
+    }
+  ]
+}
